@@ -1,0 +1,1 @@
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-sms\obj\Debug\aliyun-net-sdk-sms.csprojResolveAssemblyReference.cache

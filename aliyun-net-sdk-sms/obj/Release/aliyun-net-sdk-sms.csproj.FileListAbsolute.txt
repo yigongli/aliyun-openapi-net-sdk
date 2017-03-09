@@ -1,0 +1,6 @@
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-sms\bin\Release\aliyun-net-sdk-sms.dll
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-sms\bin\Release\aliyun-net-sdk-sms.pdb
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-sms\bin\Release\aliyun-net-sdk-core.dll
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-sms\obj\Release\aliyun-net-sdk-sms.csprojResolveAssemblyReference.cache
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-sms\obj\Release\aliyun-net-sdk-sms.dll
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-sms\obj\Release\aliyun-net-sdk-sms.pdb

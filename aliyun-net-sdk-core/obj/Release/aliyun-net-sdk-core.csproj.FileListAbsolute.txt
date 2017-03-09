@@ -1,0 +1,5 @@
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Release\Regions\endpoints.xml
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.dll
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.pdb
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.dll
+C:\SourceCode\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.pdb
